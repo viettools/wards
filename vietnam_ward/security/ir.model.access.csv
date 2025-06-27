@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+"access_country_ward_group_internal_user","access_country_ward_group_internal_user","model_res_country_ward","base.group_user",1,0,0,0
+"access_country_ward_group_system","access_country_ward_group_system","model_res_country_ward","base.group_system",1,1,1,1
