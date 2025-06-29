@@ -1,6 +1,6 @@
 {
     'name': 'Vietnam Wards',
-    'version': '18.0.0.0.3',
+    'version': '18.0.0.0.4',
     'author': 'Mai Tien Dung',
     'website': 'https://mrdung.cv',
     'license': 'GPL-3',
